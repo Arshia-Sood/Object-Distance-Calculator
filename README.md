@@ -8,55 +8,45 @@ A simple computer vision project that detects yellow-colored objects from a webc
 - Calculates distance between consecutive objects in centimeters.
 - Real-time visual feedback with bounding boxes and distance lines.
 
-**Project Structure:**
-
+## 📂 Project Structure
 ObjectDetection/
 │-- main.py
 │-- requirements.txt
 │-- README.md
 
 bash
-Copy
-Edit
+Copy code
 
 ## ⚙️ Installation
 
-Clone this repository:
+**1. Clone this repository:**
 ```bash
 git clone https://github.com/Arshia-Sood/Object-Distance-Calculator.git
 cd Object-Distance-Calculator
+```
 
-Install dependencies:
+2. Install dependencies:
 
-bash
-Copy
-Edit
+```bash
 pip install -r requirements.txt
+```
 
-Run the project:
+3. Run the project:
 
-bash
-Copy
-Edit
+```
 python main.py
+```
 
+### 📦 Dependencies
 
-📦 Dependencies
-Python 3.x
+1. Python 3.x
+2. OpenCV
+3. NumPy
+4. math (built-in)
 
-OpenCV
-
-NumPy
-
-math (built-in)
-
-.
-
-📜 License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-yaml
-Copy
-Edit
-
-
+## 🖋️Contact
+Arshia Sood
+📧arshiasood109@gmail.com
