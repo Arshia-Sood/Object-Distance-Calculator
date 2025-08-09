@@ -9,7 +9,8 @@ A simple computer vision project that detects yellow-colored objects from a webc
 - Real-time visual feedback with bounding boxes and distance lines.
 
 ## 📂 Project Structure
-ObjectDetection/
+
+ObjectDetection
 │-- main.py
 │-- requirements.txt
 │-- README.md
